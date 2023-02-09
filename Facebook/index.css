@@ -1,0 +1,167 @@
+.header {
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.logo-text {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+}
+
+.login {
+    width: 50px;
+    float: left;
+}
+
+.logins {
+    color: white;
+}
+
+.login-button {
+    background: #3b5998;
+    color: white;
+    height: 20px;
+    border-color: #3b5998;
+    cursor: pointer;
+}
+
+.login-button:hover {
+    background: rosybrown;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.left-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+
+.left-image {
+    width: 70%;
+}
+
+.right-section {
+    width: 50%;
+    float: left;
+    background-color: linear-gradient(white, #D3D8E8);
+    border-radius: 8px 8px 0 0;
+    box-sizing: border-box;
+    padding: 10px 16px;
+    position: relative;
+    width: 332px;
+    z-index: 1;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.right-slogan {
+    font-size: 12px;
+    line-height: 1px;
+    text-align: left;
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+}
+
+.main-body {
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+
+.formbox {
+    display: inline-block;
+    width: 399px;
+}
+
+.bday {
+    font-size: 15px;
+    color: #606770;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 2px;
+}
+
+.selectbody {
+    background-color: white;
+    display: inline-block;
+    height: 30px;
+    font-size: 13px;
+    border: 1px solid #bdc7d8;
+    -webkit-border-radius: 5px;
+    color: black;
+
+}
+
+.link {
+    color: #3b5998;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.agree {
+    font-size: 11px;
+    color: #777;
+    width: 316px;
+    margin: 11px 0 11px;
+}
+
+.signbut {
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    -webkit-border-radius: 5px;
+    background: -webkit-linear-gradient(#67ae55, #578843);
+    -webkit-box-shadow: inset 0 1px 1px #a4e388;
+    border: 1px solid;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+    cursor: pointer;
+}
+
+.signbut:hover {
+    background: -webkit-linear-gradient(#79bc64, #578843);
+}
+
+.create {
+
+    color: #666;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+body {
+    margin: 0;
+
+}
